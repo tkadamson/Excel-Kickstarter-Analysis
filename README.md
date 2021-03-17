@@ -1,6 +1,6 @@
 # hw1-kickstarter-analysis
 
-### Project Instructions | Grade: A
+## Project Instructions | Grade: A
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
 * Use conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
@@ -89,7 +89,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-### Analysis
+## Analysis
 
 #### Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
