@@ -1,6 +1,6 @@
 # hw1-kickstarter-analysis
 
-##### GRADE: A
+#### GRADE: A
 
 #### Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
