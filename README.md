@@ -1,7 +1,12 @@
-# hw1-kickstarter-analysis
+# Excel Kickstarter Analysis
 
-#### GRADE: A
+### Summary | GRADE: A
+In this project, I was given a starter file containing information on various Kickstarted campaigns. Using conditional formatting and Excel's built-in tools such as pivot tables and graphs, I derived new insights from the data set.
 
+### Project Writeup
+See instructions.md for a step-by-step breakdown of tasks to generate new visuals.
+
+### Questions for Analysis
 #### Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
 1.	In this sample, the Theater category, and Plays specifically, had the highest number of Kickstarter campaigns by far. In terms of outcomes, more than half were successful, but even the failed theater campaigns outnumber the total number of campaigns in any other category. This trend holds among most all countries with a sample size of 25 or more projects. 
