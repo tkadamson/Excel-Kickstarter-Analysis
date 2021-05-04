@@ -1,7 +1,7 @@
 # Excel Kickstarter Analysis
 
 ### Summary | GRADE: A
-In this project, I was given a starter file containing information on various Kickstarted campaigns. Using conditional formatting and Excel's built-in tools such as pivot tables and graphs, I derived new insights from the data set.
+In this project, I was given a starter file containing information on various Kickstarter campaigns. Using conditional formatting and Excel's built-in tools such as pivot tables and graphs, I derived new insights from the data set.
 
 ### Project Writeup
 See instructions.md for a step-by-step breakdown of tasks to generate new visuals.
