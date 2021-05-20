@@ -10,8 +10,16 @@ See instructions.md for a step-by-step breakdown of tasks to generate new visual
 #### Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
 1.	In this sample, the Theater category, and Plays specifically, had the highest number of Kickstarter campaigns by far. In terms of outcomes, more than half were successful, but even the failed theater campaigns outnumber the total number of campaigns in any other category. This trend holds among most all countries with a sample size of 25 or more projects. 
+
+![Category](images/Category.png)
+
 2.	Music was the second-most pursued campaign category. Interestingly, one hundred percent of Rock campaigns were successful. Combined with the point above, these suggest that those that engage in Kickstarter campaigns, as well as those that back them, prefer projects that can generally be put in the broader category of Arts & Culture.
+
+![Subcategory](images/Subcategory.png)
+
 3.	As a general trend, campaigns that set a higher goal for the number f backers tended to fare worse off. As the goal gets higher, success drops quite dramatically, from over 70 percent successful for the smallest campaigns to under 20 percent for the largest campaigns. This could be suggestive of a couple of things. It may be difficult to attract large numbers of backers for Kickstarter campaigns in general. It may also be that more ambitious campaigns over promise on what is actually needed as an upfront investment to get their project off the ground. It is easy to imagine a campaign that promises to be revolutionary, but the technology isn’t quite advanced enough for eventual market sale.
+
+![Goals](images/Goals.png)
 
 #### What are some limitations of this dataset?
 
